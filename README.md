@@ -27,6 +27,8 @@
 
 ## روش استفاده و نصب هوش مصنوعی
 
+videos/02-Install.mp4
+
 1. ابتدا پروژه را از لینک گیتهاب زیر دانلود کنید:
 
 [لینک مستقیم دانلود پروژه در فایل زیپ](https://github.com/M-Taghizadeh/Persian_Question_Answering_Voice2Voice_AI/archive/refs/heads/master.zip)

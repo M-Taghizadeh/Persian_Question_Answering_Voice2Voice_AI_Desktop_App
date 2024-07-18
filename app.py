@@ -215,7 +215,7 @@ class VoiceAssistant(QMainWindow):
         audio_url = tts_persian(text=best_context)
         self.current_sound = QSound(audio_url)
         self.current_sound.play()
-        QTimer.singleShot(len(best_context) * 100, self.enable_button)
+        QTimer.singleShot(len(extract_first_sentences(best_context)) * 100, self.enable_button)
 
     def display_text_gradually(self, text):
         self.answer_label.setText(text)

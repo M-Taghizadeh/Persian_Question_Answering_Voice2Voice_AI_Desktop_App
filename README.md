@@ -27,8 +27,7 @@
 
 ## روش استفاده و نصب هوش مصنوعی
 
-
-https://github.com/user-attachments/assets/cbf555bd-f7f0-476a-aa8f-1589f895e1c7
+[مشاهده ویدئوی راهنمای نصب نرم افزار دسکتاپ](https://github.com/M-Taghizadeh/Persian_Question_Answering_Voice2Voice_AI_Desktop_App/blob/master/videos/Install.mp4)
 
 
 1. ابتدا پروژه را از لینک گیتهاب زیر دانلود کنید:

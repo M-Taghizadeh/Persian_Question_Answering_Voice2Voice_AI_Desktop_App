@@ -27,7 +27,9 @@
 
 ## روش استفاده و نصب هوش مصنوعی
 
-videos/02-Install.mp4
+
+https://github.com/user-attachments/assets/cbf555bd-f7f0-476a-aa8f-1589f895e1c7
+
 
 1. ابتدا پروژه را از لینک گیتهاب زیر دانلود کنید:
 
